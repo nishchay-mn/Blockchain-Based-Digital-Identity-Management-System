@@ -11,7 +11,7 @@ export const QRModal = ({ isOpen, onClose, credential }) => {
   if (!credential) return null;
 
   // The verification URL containing only the non-sensitive public ID/token
-  const verificationUrl = `${window.location.origin}/verify?id=${encodeURIComponent(credential.id)}`;
+  const verificationUrl = `${window.location.origin}${window.location.pathname}#/verifier/verify?id=${encodeURIComponent(credential.id)}`;
 
   const handleCopyLink = () => {
     navigator.clipboard.writeText(verificationUrl);

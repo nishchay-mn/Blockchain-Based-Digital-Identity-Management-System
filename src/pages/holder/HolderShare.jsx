@@ -44,7 +44,7 @@ export const HolderShare = () => {
     }));
   };
 
-  const verificationUrl = `${window.location.origin}/verifier/verify?id=${encodeURIComponent(selectedCred?.id || '')}`;
+  const verificationUrl = `${window.location.origin}${window.location.pathname}#/verifier/verify?id=${encodeURIComponent(selectedCred?.id || '')}`;
 
   const handleCopyLink = () => {
     if (!hasConsented) {
