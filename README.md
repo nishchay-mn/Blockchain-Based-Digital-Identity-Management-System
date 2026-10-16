@@ -1,11 +1,13 @@
 # TrustID — Blockchain-Based Digital Identity Management System
 
-[![BCA Major Project](https://img.shields.io/badge/Project-BCA%20Major%20Project-blue.svg)](https://github.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-GitHub_Pages-22c55e.svg?logo=github&logoColor=white)](https://nishchay-mn.github.io/Blockchain-Based-Digital-Identity-Management-System/)
+[![BCA Major Project](https://img.shields.io/badge/Project-BCA%20Major%20Project-blue.svg)](https://github.com/nishchay-mn/Blockchain-Based-Digital-Identity-Management-System)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB.svg?logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38BDF8.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+> 🌐 **Live Website:** [https://nishchay-mn.github.io/Blockchain-Based-Digital-Identity-Management-System/](https://nishchay-mn.github.io/Blockchain-Based-Digital-Identity-Management-System/)  
 > **Decentralized, Self-Sovereign Digital Identity & Verifiable Credential Platform**  
 > *Developed as a Final Year BCA Major Project.*
 
